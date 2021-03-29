@@ -34,17 +34,6 @@ export const MainPage = () => {
                 </div>
             </div>
         </div>
-
-        <div>
-            <h5>WE CAN HELP YOU WITH</h5>
-
-            <div>
-                <HelpCard bg="#FFE2DE" title="Weight Lifting" />
-                <HelpCard bg="#C4E769" title="Running  & Spinning" />
-                <HelpCard bg="#62D0DF" title="Pumping Iron" />
-                <HelpCard bg="#0052C1" title="Pumping Iron" />
-            </div>
-
-        </div>
     </div>
+    
 }
